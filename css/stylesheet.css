@@ -1,0 +1,10 @@
+#catBar {
+	width: 75%;
+	height: 100%;
+	float: left;
+}
+#navBar {
+	float: right;
+	width: 25%;
+	height: 100%;
+}
